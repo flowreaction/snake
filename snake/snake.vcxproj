@@ -123,6 +123,7 @@
   <ItemGroup>
     <ClInclude Include="enums.h" />
     <ClInclude Include="function_prototypes.h" />
+    <ClInclude Include="palette.h" />
     <ClInclude Include="structs.h" />
     <ClInclude Include="symConst.h" />
     <ClInclude Include="typedefs.h" />

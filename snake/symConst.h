@@ -2,8 +2,8 @@
 #define symConst_h
 #define _CRT_SECURE_NO_WARNINGS
 #define HMAX	60
-#define VMAX	30
-#define NAMELENGTH 20
+#define VMAX	40
+#define NAMELENGTH 6
 #define SNAKEBODYCHAR 177
 #define SNAKEHEAD 178
 #define SNAKEFOOD 254
